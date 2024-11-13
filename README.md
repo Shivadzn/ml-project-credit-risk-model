@@ -1,10 +1,11 @@
 🏦 Credit Risk Prediction Model
 Helping financial institutions make data-driven, reliable credit decisions with machine learning
+Project link = https://your-finance-ml-project-credit-risk-model.streamlit.app/
 
-📌 Table of Contents
-📘 Project Overview
-✨ Features
-💻 Technologies Used
+* 📌 Table of Contents
+* 📘 Project Overview
+* ✨ Features
+* 💻 Technologies Used
 ⚙️ Installation
 🚀 Usage
 📊 Results and Analysis
